@@ -4,7 +4,7 @@ This was a quick project I did to track fingers in a video feed. The project use
 
 ## Video
 
-[![Finger Tracking]()]
+![Finger Tracking](https://github.com/OttoVintola/MediaPipe_FingerTracking/blob/main/media/demo.gif)
 
 ## Future 
 
