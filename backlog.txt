@@ -1,0 +1,1 @@
+Make coordinates to img with opencv -> use easyocr/other OCR library/model to classify characters
